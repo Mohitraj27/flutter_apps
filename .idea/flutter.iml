@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/f1/app1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/f1/app1/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/f1/app1/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/f2/app2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/f2/app2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/f2/app2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/f2/data_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/f2/data_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/f2/data_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ninja/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ninja/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ninja/build" />
+      <excludeFolder url="file://$MODULE_DIR$/crud_firebase/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/crud_firebase/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/crud_firebase/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Firebase_CRUD/flutter_fbfirestore_crud/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Firebase_CRUD/flutter_fbfirestore_crud/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Firebase_CRUD/flutter_fbfirestore_crud/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_fbfirestore_crud/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_fbfirestore_crud/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_fbfirestore_crud/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
